@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/oopsno/sunrgbd-preprocessor/issues"
   },
-  "homepage": "https://github.com/oopsno/sunrgbd-preprocessor#readme"
+  "homepage": "https://github.com/oopsno/sunrgbd-preprocessor#readme",
+  "dependencies": {
+    "fs-extra": "^0.30.0"
+  }
 }
